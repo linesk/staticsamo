@@ -13,5 +13,5 @@ module.exports = {
         ],
         sidebar: 'auto'
     },
-    base: '/staticsamo62/'
+    base: '/'
 }
