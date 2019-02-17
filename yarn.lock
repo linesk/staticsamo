@@ -7200,7 +7200,7 @@ vue-template-es2015-compiler@^1.8.2:
   resolved "https://registry.yarnpkg.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.8.2.tgz#dd73e80ba58bb65dd7a8aa2aeef6089cf6116f2a"
   integrity sha512-cliV19VHLJqFUYbz/XeWXe5CO6guzwd0yrrqqp0bmjlMP3ZZULY7fu8RTC4+3lmHwo6ESVDHFDsvjB15hcR5IA==
 
-vue@^2.5.16, vue@^2.5.17:
+vue@^2.5.16:
   version "2.6.6"
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.6.tgz#dde41e483c11c46a7bf523909f4f2f816ab60d25"
   integrity sha512-Y2DdOZD8sxApS+iUlwv1v8U1qN41kq6Kw45lM6nVZKhygeWA49q7VCCXkjXqeDBXgurrKWkYQ9cJeEJwAq0b9Q==
@@ -7279,13 +7279,6 @@ vuepress@^0.14.8:
     webpack-serve "^1.0.2"
     webpackbar "^2.6.1"
     workbox-build "^3.1.0"
-
-vuesax@^3.8.20:
-  version "3.8.20"
-  resolved "https://registry.yarnpkg.com/vuesax/-/vuesax-3.8.20.tgz#3fab6b627ee2e00464c8fa8a61fe7f5a665e7042"
-  integrity sha512-xQO1WFYrWOkocbdcPB0N9yQm8mtXcPtNiVLmqdbJUS3Mqxy+4SYn6cVNOH12vGN0RHK/NZNe46Ymq16QlFimbQ==
-  dependencies:
-    vue "^2.5.17"
 
 watchpack@^1.5.0:
   version "1.6.0"

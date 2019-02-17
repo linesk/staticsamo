@@ -1,5 +1,3 @@
-import Vuesax from 'vuesax'
-import 'vuesax/dist/vuesax.css'
 
 export default ({
     Vue, // the version of Vue being used in the VuePress app
@@ -8,5 +6,4 @@ export default ({
     siteData // site metadata
 }) => {
     // ...apply enhancements to the app
-    Vue.use(Vuesax)
 }
