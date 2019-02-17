@@ -28,8 +28,8 @@ module.exports = {
         sidebar: {
             '/aboutus/': [
                 '',
-                'Policy',
-                'Organization'
+                'policy',
+                'organization'
             ],
         }
     },
