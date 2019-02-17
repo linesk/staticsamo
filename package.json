@@ -1,6 +1,20 @@
 {
+    "name": "static-samo",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "repository": "",
     "scripts": {
         "dev": "vuepress dev docs",
-        "build": "vuepress build docs"
-    }
+        "docs:build": "vuepress build docs"
+    },
+    "dependencies": {
+        "vuepress": "^0.14.8",
+        "vuepress-theme-cool": "^0.1.8",
+        "webpack": "^4.29.4"
+    },
+    "keywords": [],
+    "author": "Ratchapoom",
+    "license": "MIT",
+    "devDependencies": {}
 }

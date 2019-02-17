@@ -1,9 +1,10 @@
 language: node_js
 node_js:
   - "10"
-install: npm install -g vuepress
+install: 
+  - yarn
 script:
-  - npm run build
+  - yarn docs:build
 deploy:
   provider: pages
   skip-cleanup: true

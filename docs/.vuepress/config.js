@@ -13,5 +13,13 @@ module.exports = {
         ],
         sidebar: 'auto'
     },
-    base: '/'
+    theme: 'cool',
+    base: '/staticsamo/',
+    configureWebpack: {
+        resolve: {
+            alias: {
+                '@alias': 'path/to/some/dir'
+            }
+        }
+    }
 }
