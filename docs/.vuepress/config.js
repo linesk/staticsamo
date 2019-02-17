@@ -8,13 +8,7 @@ module.exports = {
         }]
     ],
     plugins: [
-        '@vuepress/back-to-top',
-        [
-            '@vuepress/google-analytics',
-            {
-                'ga': '' // UA-00000000-0
-            }
-        ]
+        '@vuepress/back-to-top'
     ],
     themeConfig: {
         logo: '/images/logo.png',
@@ -35,7 +29,7 @@ module.exports = {
             '/aboutus/': [
                 '',
                 'policy',
-                'organization',
+                'organization'
             ],
         },
         lastUpdated: 'Last Updated',
