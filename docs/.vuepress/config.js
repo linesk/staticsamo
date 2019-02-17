@@ -31,8 +31,7 @@ module.exports = {
                 'Policy',
                 'Organization'
             ],
-        },
-        lastUpdated: 'Last Updated',
+        }
     },
     base: '/staticsamo/',
     configureWebpack: {

@@ -1,21 +1,20 @@
 {
-    "name": "static-samo",
-    "version": "0.0.1",
-    "description": "",
-    "main": "index.js",
-    "repository": "https://github.com/linesk/staticsamo",
-    "scripts": {
-        "dev": "vuepress dev docs",
-        "docs:build": "vuepress build docs"
-    },
-    "dependencies": {
-        "@vuepress/plugin-back-to-top": "^1.0.0-alpha.0",
-        "@vuepress/plugin-google-analytics": "^1.0.0-alpha.0",
-        "vuepress": "^0.14.8",
-        "webpack": "^4.29.4"
-    },
-    "keywords": [],
-    "author": "Ratchapoom",
-    "license": "MIT",
-    "devDependencies": {}
+  "name": "static-samo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": "https://github.com/linesk/staticsamo",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "dependencies": {
+    "@vuepress/plugin-back-to-top": "^1.0.0-alpha.0",
+    "@vuepress/plugin-google-analytics": "^1.0.0-alpha.0",
+    "vuepress": "^0.14.8",
+    "webpack": "^4.29.4"
+  },
+  "keywords": [],
+  "author": "Ratchapoom",
+  "license": "MIT"
 }
