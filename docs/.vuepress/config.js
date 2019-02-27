@@ -12,6 +12,8 @@ module.exports = {
     ],
     themeConfig: {
         logo: '/images/logo.png',
+        docsDir: 'docs',
+        repo: 'linesk/staticsamo',
         nav: [{
                 text: 'Home',
                 link: '/'
@@ -23,6 +25,10 @@ module.exports = {
             {
                 text: 'Contact Us',
                 link: '/contactus.html'
+            },
+            {
+                text: 'Login',
+                link: '/admin/#/'
             },
         ],
         sidebar: {
