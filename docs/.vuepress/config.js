@@ -19,16 +19,16 @@ module.exports = {
                 link: '/'
             },
             {
+                text: 'Blog',
+                link: '/blog/'
+            },
+            {
                 text: 'About Us',
                 link: '/aboutus/'
             },
             {
-                text: 'Contact Us',
-                link: '/contactus.html'
-            },
-            {
                 text: 'Login',
-                link: '/admin/#/'
+                link: '/admin/'
             },
         ],
         sidebar: {
