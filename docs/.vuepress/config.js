@@ -32,7 +32,6 @@ module.exports = {
             ],
         }
     },
-    base: '/staticsamo/',
     configureWebpack: {
         resolve: {
             alias: {
